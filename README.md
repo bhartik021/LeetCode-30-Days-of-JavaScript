@@ -19,13 +19,13 @@ To make the most out of this repository:
 
 1. Clone the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your-username/leetcode-30-days-javascript.git
+   git clone https://github.com/bhartik021/Leetcode-30-days-of-Javascript.git
    ```
 
 2. Navigate to the cloned repository:
-  ```bash
-  cd Leetcode-30-days-of-Javascript
-  ```
+     ```bash
+     cd Leetcode-30-days-of-Javascript
+     ```
 
 ## Problem List
 | S. No. | Problem Name | Problem No. | Problem Link | Problem Level | Solution Folder |
