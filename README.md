@@ -31,6 +31,10 @@ To make the most out of this repository:
 | S. No. | Problem Name | Problem No. | Problem Link | Problem Level | Solution Folder |
 | ------ | ------------ | ----------- | ------------ | ------------- | -------- |
 | 1 | Create Hello World Function | 2667 |[Link](https://leetcode.com/problems/create-hello-world-function/?envType=study-plan-v2&envId=30-days-of-javascript) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2667.%20Create%20Hello%20World%20Function/Solution.js) |
+| 2 | Counter | 2620 | [Link](https://leetcode.com/problems/counter/?envType=study-plan-v2&envId=30-days-of-javascript) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2620.%20Counter/Solution.js) |
+| 3 | To Be Or Not To Be | 2704 | [Link](https://leetcode.com/problems/to-be-or-not-to-be/?envType=study-plan-v2&envId=30-days-of-javascript) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2704.%20To%20Be%20Or%20Not%20To%20Be/Solution.js) |
+| 4 | Counter II | 2665 | [Link](https://leetcode.com/problems/counter-ii/?envType=study-plan-v2&envId=30-days-of-javascript) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2665.%20Counter%20II/Solution.js) |
+| 5 | Apply Transform Over Each Element in Array | 2635 | [Link](https://leetcode.com/problems/apply-transform-over-each-element-in-array/?envType=study-plan-v2&envId=30-days-of-javascript) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2635.%20Apply%20Transform%20Over%20Each%20Element%20in%20Array/Solution.js) |
 
 ## License
 This repository is licensed under the `MIT License`.
