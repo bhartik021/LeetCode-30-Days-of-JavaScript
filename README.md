@@ -35,5 +35,5 @@ To make the most out of this repository:
 ## License
 This repository is licensed under the `MIT License`.
 
-Happy coding and best of luck with your LeetCode 30-Day Challenge journey! If you find this repository helpful, consider giving it a ⭐ to show your support. If you have any questions or suggestions, feel free to reach out. Let's grow and learn together!
+_Happy coding and best of luck with your LeetCode 30-Day Challenge journey! If you find this repository helpful, consider giving it a ⭐ to show your support. If you have any questions or suggestions, feel free to reach out. Let's grow and learn together!_
 
