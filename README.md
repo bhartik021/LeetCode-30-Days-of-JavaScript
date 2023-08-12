@@ -36,7 +36,8 @@ To make the most out of this repository:
 | 4 | Counter II | 2665 | [Link](https://leetcode.com/problems/counter-ii/?envType=study-plan-v2&envId=30-days-of-javascript) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2665.%20Counter%20II/Solution.js) |
 | 5 | Apply Transform Over Each Element in Array | 2635 | [Link](https://leetcode.com/problems/apply-transform-over-each-element-in-array/?envType=study-plan-v2&envId=30-days-of-javascript) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2635.%20Apply%20Transform%20Over%20Each%20Element%20in%20Array/Solution.js) |
 | 6 | Filter Elements from Array | 2634 | [Link](https://leetcode.com/problems/filter-elements-from-array/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2634.%20Filter%20Elements%20from%20Array/Solution.js) |
-| 7 | Array Reduce Transformation | 2626 |  [Link](https://leetcode.com/problems/array-reduce-transformation/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2626.%20Array%20Reduce%20Transformation/Solution.js) |
+| 7 | Array Reduce Transformation | 2626 | [Link](https://leetcode.com/problems/array-reduce-transformation/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2626.%20Array%20Reduce%20Transformation/Solution.js) |
+| 8 | Function Composition | 2629 | [Link](https://leetcode.com/problems/function-composition/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2629.%20Function%20Composition/Solution.js) |
 
 ## License
 This repository is licensed under the `MIT License`.
