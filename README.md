@@ -39,6 +39,7 @@ To make the most out of this repository:
 | 7 | Array Reduce Transformation | 2626 | [Link](https://leetcode.com/problems/array-reduce-transformation/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2626.%20Array%20Reduce%20Transformation/Solution.js) |
 | 8 | Function Composition | 2629 | [Link](https://leetcode.com/problems/function-composition/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2629.%20Function%20Composition/Solution.js) |
 | 9 | Return Length of Arguments Passed | 2703 | [Link](https://leetcode.com/problems/return-length-of-arguments-passed/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2703.%20Return%20Length%20of%20Arguments%20Passed/Solution.js) |
+| 10 | Allow One Function Call | 2666 | [Link](https://leetcode.com/problems/allow-one-function-call/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2666.%20Allow%20One%20Function%20Call/Solution.js) |
 
 ## License
 This repository is licensed under the `MIT License`.
