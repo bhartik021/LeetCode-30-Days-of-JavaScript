@@ -44,6 +44,7 @@ To make the most out of this repository:
 | 12 | Add Two Promises | 2723 | [Link](https://leetcode.com/problems/add-two-promises/?envType=study-plan-v2&envId=30-days-of-javascript) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2723.%20Add%20Two%20Promises/Solution.js) |
 | 13 | Sleep | 2621 | [Link](https://leetcode.com/problems/sleep/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2621.%20Sleep/Solution.js) |
 | 14 | Timeout Cancellation | 2715 | [Link](https://leetcode.com/problems/timeout-cancellation/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2715.%20Timeout%20Cancellation/Solution.js) |
+| 15 | Interval Cancellation | 2725 | [Link](https://leetcode.com/problems/interval-cancellation/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2725.%20Interval%20Cancellation/Solution.js) |
 
 ## License
 This repository is licensed under the `MIT License`.
