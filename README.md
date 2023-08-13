@@ -41,6 +41,7 @@ To make the most out of this repository:
 | 9 | Return Length of Arguments Passed | 2703 | [Link](https://leetcode.com/problems/return-length-of-arguments-passed/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2703.%20Return%20Length%20of%20Arguments%20Passed/Solution.js) |
 | 10 | Allow One Function Call | 2666 | [Link](https://leetcode.com/problems/allow-one-function-call/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2666.%20Allow%20One%20Function%20Call/Solution.js) |
 | 11 | Memoize | 2623 | [Link](https://leetcode.com/problems/memoize/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2623.%20Memoize/Solution.js) |
+| 12 | Add Two Promises | 2723 | [Link](https://leetcode.com/problems/add-two-promises/?envType=study-plan-v2&envId=30-days-of-javascript) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2723.%20Add%20Two%20Promises/Solution.js) |
 
 ## License
 This repository is licensed under the `MIT License`.
