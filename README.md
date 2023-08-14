@@ -45,6 +45,8 @@ To make the most out of this repository:
 | 13 | Sleep | 2621 | [Link](https://leetcode.com/problems/sleep/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2621.%20Sleep/Solution.js) |
 | 14 | Timeout Cancellation | 2715 | [Link](https://leetcode.com/problems/timeout-cancellation/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2715.%20Timeout%20Cancellation/Solution.js) |
 | 15 | Interval Cancellation | 2725 | [Link](https://leetcode.com/problems/interval-cancellation/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2725.%20Interval%20Cancellation/Solution.js) |
+| 16 | Promise Time Limit | 2637 | [Link](https://leetcode.com/problems/promise-time-limit/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2637.%20Promise%20Time%20Limit/Solution.js) |
+
 
 ## License
 This repository is licensed under the `MIT License`.
