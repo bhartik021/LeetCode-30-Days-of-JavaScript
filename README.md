@@ -49,6 +49,7 @@ To make the most out of this repository:
 | 17 | Cache With Time Limit | 2622 | [Link](https://leetcode.com/problems/cache-with-time-limit/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2622.%20Cache%20With%20Time%20Limit/Solution.js) |
 | 18 | Debounce | 2627 | [Link](https://leetcode.com/problems/debounce/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2627.%20Debounce/Solution.js) |
 | 19 | Execute Asynchronous Functions in Parallel | 2721 | [Link](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2721.%20Execute%20Asynchronous%20Functions%20in%20Parallel/Solution.js) |
+| 20 | Is Object Empty | 2727 | [Link](https://leetcode.com/problems/is-object-empty/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2727.%20Is%20Object%20Empty/Solution.js) |
 
 
 
