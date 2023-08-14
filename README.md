@@ -47,6 +47,7 @@ To make the most out of this repository:
 | 15 | Interval Cancellation | 2725 | [Link](https://leetcode.com/problems/interval-cancellation/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2725.%20Interval%20Cancellation/Solution.js) |
 | 16 | Promise Time Limit | 2637 | [Link](https://leetcode.com/problems/promise-time-limit/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2637.%20Promise%20Time%20Limit/Solution.js) |
 | 17 | Cache With Time Limit | 2622 | [Link](https://leetcode.com/problems/cache-with-time-limit/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2622.%20Cache%20With%20Time%20Limit/Solution.js) |
+| 18 | Debounce | 2627 | [Link](https://leetcode.com/problems/debounce/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2627.%20Debounce/Solution.js) |
 
 
 ## License
