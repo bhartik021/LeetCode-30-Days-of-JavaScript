@@ -53,6 +53,7 @@ To make the most out of this repository:
 | 21 | Chunk Array | 2677 | [Link](https://leetcode.com/problems/chunk-array/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2677.%20Chunk%20Array/Solution.js) |
 | 22 | Array Prototype Last | 2619 | [Link](https://leetcode.com/problems/array-prototype-last/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2619.%20Array%20Prototype%20Last/Solution.js) |
 | 23 | Group By | 2631 | [Link](https://leetcode.com/problems/group-by/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2631.%20Group%20By/Solution.js) |
+| 24 | Sort By | 2724 | [Link](https://leetcode.com/problems/sort-by/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2724.%20Sort%20By/Solution.js) |
 
 
 
