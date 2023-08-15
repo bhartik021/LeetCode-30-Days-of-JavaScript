@@ -54,8 +54,7 @@ To make the most out of this repository:
 | 22 | Array Prototype Last | 2619 | [Link](https://leetcode.com/problems/array-prototype-last/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2619.%20Array%20Prototype%20Last/Solution.js) |
 | 23 | Group By | 2631 | [Link](https://leetcode.com/problems/group-by/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2631.%20Group%20By/Solution.js) |
 | 24 | Sort By | 2724 | [Link](https://leetcode.com/problems/sort-by/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2724.%20Sort%20By/Solution.js) |
-
-
+| 25 | Join Two Arrays by ID | 2722 | [Link](https://leetcode.com/problems/join-two-arrays-by-id/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2722.%20Join%20Two%20Arrays%20by%20ID/Solution.js) |
 
 ## License
 This repository is licensed under the `MIT License`.
