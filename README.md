@@ -51,6 +51,7 @@ To make the most out of this repository:
 | 19 | Execute Asynchronous Functions in Parallel | 2721 | [Link](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2721.%20Execute%20Asynchronous%20Functions%20in%20Parallel/Solution.js) |
 | 20 | Is Object Empty | 2727 | [Link](https://leetcode.com/problems/is-object-empty/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2727.%20Is%20Object%20Empty/Solution.js) |
 | 21 | Chunk Array | 2677 | [Link](https://leetcode.com/problems/chunk-array/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2677.%20Chunk%20Array/Solution.js) |
+| 22 | Array Prototype Last | 2619 | [Link](https://leetcode.com/problems/array-prototype-last/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2619.%20Array%20Prototype%20Last/Solution.js) |
 
 
 
