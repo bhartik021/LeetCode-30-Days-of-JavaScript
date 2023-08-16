@@ -57,6 +57,7 @@ To make the most out of this repository:
 | 25 | Join Two Arrays by ID | 2722 | [Link](https://leetcode.com/problems/join-two-arrays-by-id/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2722.%20Join%20Two%20Arrays%20by%20ID/Solution.js) |
 | 26 | Flatten Deeply Nested Array | 2625 | [Link](https://leetcode.com/problems/flatten-deeply-nested-array/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2625.%20Flatten%20Deeply%20Nested%20Array/Solution.js) |
 | 27 | Compact Object | 2705 | [Link](https://leetcode.com/problems/compact-object/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2705.%20Compact%20Object/Solution..js) |
+| 28 | Event Emitter | 2694 | [Link](https://leetcode.com/problems/event-emitter/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2694.%20Event%20Emitter/Solution.js) |
 
 ## License
 This repository is licensed under the `MIT License`.
