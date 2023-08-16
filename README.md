@@ -55,6 +55,7 @@ To make the most out of this repository:
 | 23 | Group By | 2631 | [Link](https://leetcode.com/problems/group-by/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2631.%20Group%20By/Solution.js) |
 | 24 | Sort By | 2724 | [Link](https://leetcode.com/problems/sort-by/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2724.%20Sort%20By/Solution.js) |
 | 25 | Join Two Arrays by ID | 2722 | [Link](https://leetcode.com/problems/join-two-arrays-by-id/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2722.%20Join%20Two%20Arrays%20by%20ID/Solution.js) |
+| 26 | Flatten Deeply Nested Array | 2625 | [Link](https://leetcode.com/problems/flatten-deeply-nested-array/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2625.%20Flatten%20Deeply%20Nested%20Array/Solution.js) |
 
 ## License
 This repository is licensed under the `MIT License`.
