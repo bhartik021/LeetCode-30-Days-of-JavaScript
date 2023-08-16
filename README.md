@@ -59,6 +59,7 @@ To make the most out of this repository:
 | 27 | Compact Object | 2705 | [Link](https://leetcode.com/problems/compact-object/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2705.%20Compact%20Object/Solution..js) |
 | 28 | Event Emitter | 2694 | [Link](https://leetcode.com/problems/event-emitter/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2694.%20Event%20Emitter/Solution.js) |
 | 29 | Array Wrapper | 2695 | [Link](https://leetcode.com/problems/array-wrapper/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2695.%20Array%20Wrapper/Solution.js) |
+| 30 | Calculator with Method Chaining | 2726 | [Link](https://leetcode.com/problems/calculator-with-method-chaining/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2726.%20Calculator%20with%20Method%20Chaining/Solution.js) |
 
 ## License
 This repository is licensed under the `MIT License`.
