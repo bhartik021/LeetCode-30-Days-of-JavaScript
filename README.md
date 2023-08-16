@@ -58,6 +58,7 @@ To make the most out of this repository:
 | 26 | Flatten Deeply Nested Array | 2625 | [Link](https://leetcode.com/problems/flatten-deeply-nested-array/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2625.%20Flatten%20Deeply%20Nested%20Array/Solution.js) |
 | 27 | Compact Object | 2705 | [Link](https://leetcode.com/problems/compact-object/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2705.%20Compact%20Object/Solution..js) |
 | 28 | Event Emitter | 2694 | [Link](https://leetcode.com/problems/event-emitter/) | Medium | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2694.%20Event%20Emitter/Solution.js) |
+| 29 | Array Wrapper | 2695 | [Link](https://leetcode.com/problems/array-wrapper/) | Easy | [Solution](https://github.com/bhartik021/LeetCode-30-Days-of-JavaScript/blob/main/2695.%20Array%20Wrapper/Solution.js) |
 
 ## License
 This repository is licensed under the `MIT License`.
